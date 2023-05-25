@@ -11,3 +11,14 @@
     margin-top: 200px;
     color: rgb(98,97,97);
 }
+
+.header{
+    margin-left: 100px;
+    color: rgb(88,88,89);
+}
+
+.footer{
+    text-align: center;
+    color: rgb(88,88,89);
+    margin-top: 100px;
+}
